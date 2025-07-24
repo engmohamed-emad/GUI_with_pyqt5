@@ -35,7 +35,7 @@ A GUI calculator that can perform basic arithmetic operations: add, subtract, mu
 - Display screen using `QLineEdit`
 
 #### 📷 Sample Screenshot:
-![clac](photos/calc.png)
+![calc](photos/clac.png)
 
 
 
