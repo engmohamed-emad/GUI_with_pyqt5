@@ -21,7 +21,6 @@ A simple form-based application that collects user details such as name, email, 
 ![form](photos/form.png)
 
 
-#### 📂 File: `info_form.py`
 
 ---
 
@@ -34,12 +33,11 @@ A GUI calculator that can perform basic arithmetic operations: add, subtract, mu
 - Operators (+, -, ×, ÷, =)
 - Clear button (C)
 - Display screen using `QLineEdit`
-- Expression evaluation using `eval()` with basic safety
 
 #### 📷 Sample Screenshot:
-*Add your image here if available*
+![clac](photos/calc.png)
 
-#### 📂 File: `calculator.py`
+
 
 ---
 
@@ -48,25 +46,14 @@ A GUI calculator that can perform basic arithmetic operations: add, subtract, mu
 A utility to help users manage their day by adding tasks into time slots.
 
 #### 🔹 Features:
-- Input task name and time duration
-- Add and remove slots dynamically
-- Visual display of time blocks
-- Scrollable list of tasks
-- Can be extended with calendar or alarms
+- Input time duration
+- Scrollable for hours and minutes
+- claculate your time
 
 #### 📷 Sample Screenshot:
-*Add your image here if available*
+![time](photos/time.png)
 
-#### 📂 File: `time_slotter.py`
+
 
 ---
 
-## 🧰 Requirements
-
-- Python 3.x
-- PyQt5
-
-Install using pip:
-
-```bash
-pip install PyQt5
