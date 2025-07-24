@@ -18,7 +18,7 @@ A simple form-based application that collects user details such as name, email, 
 - Organized layout using `QFormLayout` or `QVBoxLayout`.
 
 #### 📷 Sample Screenshot:
-![form](images/form.png)
+![form](photos/form.png)
 
 
 #### 📂 File: `info_form.py`
